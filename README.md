@@ -51,6 +51,10 @@ Pivot Tables
 Data Visualization
 Dashboard Design
 
+### Dashboard Preview
+
+![Emma N Ventures Sales Dashboard](emma_sales_dashboard.png)
+
 **Note:** Certain financial values were modified for confidentiality while preserving the analytical structure.
 
 ---
@@ -81,6 +85,11 @@ Feature Engineering
 Power BI Dashboard
 Data Visualization
 
+### Dashboard Preview
+
+![Learner Analytics Dashboard 1](learner_dashboard_1.png)
+
+![Learner Analytics Dashboard 2](learner_dashboard_2.png)
 ---
 
 # Contact
