@@ -61,6 +61,9 @@ Pivot Tables
 Data Visualization
 Dashboard Design
 
+Full project presentation:
+[Download Report](2025-Sales-Performance-Report.pptx)
+
 ### Dashboard Preview
 
 ![Emma N Ventures Sales Dashboard](Emma_Sales_Dashboard.png)
@@ -95,6 +98,9 @@ Feature Engineering
 Power BI Dashboard
 Data Visualization
 
+Full project presentation:
+[Download Report](Final-Dashboard-and-Strategic-Insights-Report.pptx)
+
 ### Dashboard Preview
 
 ![Learner Analytics Dashboard 1](Learner_Dashboard_1.png)
@@ -107,6 +113,8 @@ Data Visualization
 LinkedIn: *(https://www.linkedin.com/in/oshorakpor-ovie-448b67289?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLPJJpks3QwSl0S%2FlKxqRJw%3D%3D)*
 
 GitHub: https://github.com/OviXTheAnalyst
+
+Email: oshorpresh@gmail.com
 
 ---
 
