@@ -53,7 +53,7 @@ Dashboard Design
 
 ### Dashboard Preview
 
-![Emma N Ventures Sales Dashboard](emma_sales_dashboard.png)
+![Emma N Ventures Sales Dashboard](Emma_Sales_Dashboard.png)
 
 **Note:** Certain financial values were modified for confidentiality while preserving the analytical structure.
 
@@ -87,9 +87,9 @@ Data Visualization
 
 ### Dashboard Preview
 
-![Learner Analytics Dashboard 1](learner_dashboard_1.png)
+![Learner Analytics Dashboard 1](Learner_Dashboard_1.png)
 
-![Learner Analytics Dashboard 2](learner_dashboard_2.png)
+![Learner Analytics Dashboard 2](Learner_Dashboard_2.png)
 ---
 
 # Contact
