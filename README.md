@@ -1,4 +1,15 @@
 # Data Analytics Portfolio
+
+---
+
+## Portfolio Projects
+
+1. **Emma N. Ventures – 2025 Sales Performance Analysis**
+   Interactive Excel dashboard analyzing revenue trends and branch performance.
+
+2. **AI-Powered Data Analytics – Learner Engagement & Success Prediction**
+   Machine learning and Power BI project predicting learner success probability.
+
 Welcome to my Data Analytics Portfolio. This repository showcases projects where I analyze datasets, build dashboards, develop predictive models, and generate insights that support data-driven decision making.
 
 
