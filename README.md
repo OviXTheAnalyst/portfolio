@@ -1,5 +1,5 @@
 # Data Analytics Portfolio
-Welcome to my Data Analytics Portfolio. This repository showcases projects where I analyze datasets, build dashboards, develop predictive models, and generate insights that support data-driven decision making.
+Welcome to my Data Analytics Portfolio. This repository showcases projects where I analyze datasets, build dashboards, and generate insights that support data-driven decision making.
 ---
 
 ## Portfolio Projects
@@ -7,18 +7,14 @@ Welcome to my Data Analytics Portfolio. This repository showcases projects where
 1. **Emma N. Ventures – 2025 Sales Performance Analysis**
    Interactive Excel dashboard analyzing revenue trends and branch performance.
 
-2. **AI-Powered Data Analytics – Learner Engagement & Success Prediction**
-   Machine learning and Power BI project predicting learner success probability.
-
-
 
 # About Me
-I am an aspiring Data Analyst with a background in Computer Engineering, passionate about transforming raw data into meaningful insights and strategic intelligence. My work focuses on:
+I am a Data Analyst with a background in Computer Engineering, passionate about transforming raw data into meaningful insights and strategic intelligence. My work focuses on:
 
 * Business data analysis
 * Dashboard development
 * Data visualization
-* Predictive analytics
+* Predictive analysis
 * Translating analytical results into actionable insights
 
 I currently work with tools such as **Excel**, and continue expanding my skills in SQL, Python, PowerBi, machine learning and AI-driven analytics.
@@ -27,13 +23,8 @@ I currently work with tools such as **Excel**, and continue expanding my skills 
 
 # Tools & Technologies
 * Microsoft Excel
-* Power BI *(Learning)*
-* SQL *(learning)*
-* Python *(learning)*
-* Machine Learning *(Learning)*
 * Data Visualization
 * Business Analytics
-* Predictive Analytics
 
 ---
 
@@ -70,42 +61,6 @@ Full project presentation:
 
 **Note:** Certain financial values were modified for confidentiality while preserving the analytical structure.
 
----
-
-## 2. AI-Powered Data Analytics – Learner Engagement & Success Prediction
-This project integrates **exploratory data analysis and machine learning** to understand learner participation patterns and predict application outcomes. Using historical application data, I built a **Random Forest predictive model** and developed an **interactive Power BI dashboard** to visualize engagement patterns and forecast learner success probability.
-
-### Analytical Focus
-* Historical learner participation analysis
-* Demographic engagement patterns
-* Opportunity category participation
-* Predictive modeling of learner success probability
-
-### Key Insights
-* The **20–25 age group** represents the highest participation segment.
-* Internship and Course programs dominate application categories.
-* Outcomes show a strong imbalance between success and non-success cases.
-* Predictive modeling reveals a high probability of application drop-off.
-
-### Model Results
-* Predicted Drop-Off Rate: **99.3%**
-* Predicted Success Rate: **0.7%**
-
-### Tools Used
-Python
-Random Forest Machine Learning Model
-Feature Engineering
-Power BI Dashboard
-Data Visualization
-
-Full project presentation:
-[Download Report](Final-Dashboard-and-Strategic-Insights-Report.pptx)
-
-### Dashboard Preview
-
-![Learner Analytics Dashboard 1](Learner_Dashboard_1.png)
-
-![Learner Analytics Dashboard 2](Learner_Dashboard_2.png)
 ---
 
 # Contact
